@@ -15,7 +15,6 @@ These schemes are implemented in the attached file "lineCodingSchemes.py".
 I used matplotlib to plot graph of the generated signal. This code has a little issue.
 In all schemes, we need to append 1 in list "y" to generate correct pattern of the scheme.
 
-You can take this code and try to update this source code.<br>
-You can also send me solutions to this issue!
+You can take this code and try to update it.
 <br>
 Thanks!
