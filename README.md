@@ -1,7 +1,7 @@
 # Line-Coding-Schemes
 
 Line coding schemes are used to translate digital data to digital signals. They are mainly used in physical Layer of OSI model during digital transmission.
-There are following types of LCS:
+Following types of LCS are implemented in this src code:
 1. NRZ Unipolar (Non-return to Zero-Unipolar)
 2. NRZ-L (NRZ Level Polar)
 3. NRZ-I (NRZ Invert Polar)
