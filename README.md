@@ -11,8 +11,8 @@ There are following types of LCS:
 7. AML (Alternate Mark Inversion)
 8. 2B1Q 
 
-These schemes are implemented in the attached file "lineCodingSchemes.py"
-I used matplotlib of python to plot graph of the generated signal. This code has a little issue.
+These schemes are implemented in the attached file "lineCodingSchemes.py".
+I used matplotlib to plot graph of the generated signal. This code has a little issue.
 In all schemes, we need to append 1 in list "y" to generate exact pattern of the scheme.
 
 You can take this code and try to update this source code. You can also send me solutions to this issue!
